@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mflaneur
-- 👀 I’m interested in ... geoinformatics (maps, apps, & naps!)
+- 👀 I’m interested in ... geoinformatics
 - 🌱 I’m currently learning ... Java, ArcGIS
-- 💞️ I’m looking to collaborate on ... idk yet
 - 📫 How to reach me ... https://twitter.com/mflaneur
 
 <!---
