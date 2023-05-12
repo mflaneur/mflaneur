@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mflaneur
-- 👀 I’m interested in ... geoinformatics
-- 🌱 I’m currently learning ... Java, PHP, Discrete Math Logic, Ethics, Python, ArcGIS
+- 👀 I’m interested in ... Geoinformatics
+- 🌱 I’m currently learning ... Python, R, Economics, Statistics, Management Information Systems
 - 📫 How to reach me ... https://mlafleur.dev
 
 <!---
