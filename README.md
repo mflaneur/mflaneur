@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mflaneur
-- 👀 I’m interested in ... Geoinformatics
-- 🌱 I’m currently learning ... Python, R, Economics, Statistics, Management Information Systems
+- 👀 I’m interested in ... Geoinformatics, GIS, Urban Planning
+- 🌱 I’m currently learning ... Systems Design & Development, Data Structures & Algorithms, Business Analytics
 - 📫 How to reach me ... https://mlafleur.dev
 
 <!---
